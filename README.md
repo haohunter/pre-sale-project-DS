@@ -1,3 +1,7 @@
+## Information
+
+This a new version with a few changes in the UX and UI trying to aim a better experience for the user
+
 ## Overview
 
 ELO stands for Effortless Order Foods.
